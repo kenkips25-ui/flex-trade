@@ -1,1 +1,1 @@
-{"styles":{"growthRate":"b","stake":"a","takeProfit":"a","info":"a","buy":"a"},"order":["chart","growthRate","stake","takeProfit","info","buy"],"buy":{"pinned":true}}
+{"styles":{"buy":"a","info":"a","stake":"a","growthRate":"b","takeProfit":"a"},"order":["chart","growthRate","stake","takeProfit","info","buy"],"buy":{"pinned":true}}
